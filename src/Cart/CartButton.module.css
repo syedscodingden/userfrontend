@@ -1,0 +1,33 @@
+.button {
+  background-color: transparent;
+  color: white;
+  height: 2.6rem;
+  border-radius: 18px;
+  width: 5rem;
+  display: flex;
+  padding-top: 4px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.button span {
+  margin: 0;
+}
+
+.badge {
+  color: white;
+  margin-bottom: -12rem;
+  font-size: 1.8rem;
+  padding-left: 8px;
+}
+
+.badge:hover,
+.badge:active {
+  color: #909090;
+}
+
+.button:hover,
+.button:active {
+  color: #909090;
+  background-color: #f0f0f0;
+}

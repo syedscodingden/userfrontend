@@ -1,0 +1,17 @@
+.modal {
+  position: absolute;
+  top: 20vh;
+  left: 25%;
+  width: 50%;
+  z-index: 100;
+  overflow: hidden;
+}
+
+.cart {
+  margin-left: 1rem;
+  margin-right: 0.5rem;
+}
+
+ul {
+  list-style-type: none;
+}
